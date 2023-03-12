@@ -19,3 +19,12 @@
 // In the latest version of git there was no need to add the SSH keys ... it just asked for sign in and authentication was granted.
 
 // In the current version of git. There is no 'master branch' it changes into the 'main branch'. Currently 'main' is the default branch.
+
+// Commands: Using below command push a code in the Git Repository
+
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/shyam-rajput/GitTutorialDemo.git
+// git push -u origin main
